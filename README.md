@@ -20,8 +20,7 @@ Ensure the following prerequisites are installed:
 - **Python 3.x**
 - **OpenCV library**
 - **NumPy**
-- **(Optional) Tkinter** if GUI is used
-- **(Optional) Twilio API credentials** for OTP integration
+- **Tkinter**
 
 ---
 
@@ -29,9 +28,7 @@ Ensure the following prerequisites are installed:
 
 - **Language:** Python  
 - **Computer Vision:** OpenCV (LBPH / Haar Cascades / DNN)  
-- **Database (if used):** MySQL or SQLite  
-- **GUI (if applicable):** Tkinter  
-- **Optional SMS Verification:** Twilio API
+- **GUI:** Tkinter  
 
 ---
 
