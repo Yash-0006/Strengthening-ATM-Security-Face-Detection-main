@@ -10,7 +10,6 @@ This project strengthens ATM security by integrating face detection and recognit
 2. [Technologies Used](#technologies-used)  
 3. [Running the Project](#running-the-project)  
 4. [Project Structure](#project-structure)  
-5. [Screenshots](#screenshots)  
 
 ---
 
